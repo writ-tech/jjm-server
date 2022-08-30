@@ -153,10 +153,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -167,10 +167,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -181,10 +181,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -195,10 +195,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -209,10 +209,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -223,10 +223,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -237,10 +237,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -251,10 +251,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -265,10 +265,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -279,10 +279,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -297,10 +297,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -311,10 +311,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -325,10 +325,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -339,10 +339,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -353,10 +353,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -367,10 +367,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -381,10 +381,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -395,10 +395,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -409,10 +409,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -423,10 +423,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -441,10 +441,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -455,10 +455,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -469,10 +469,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -483,10 +483,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -497,10 +497,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -511,10 +511,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -525,10 +525,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -539,10 +539,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -553,10 +553,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -567,10 +567,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -585,10 +585,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -599,10 +599,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -613,10 +613,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -627,10 +627,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -641,10 +641,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -655,10 +655,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -669,10 +669,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -683,10 +683,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -697,10 +697,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -711,10 +711,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -729,10 +729,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -743,10 +743,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -757,10 +757,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -771,10 +771,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -785,10 +785,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -799,10 +799,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -813,10 +813,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -827,10 +827,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -841,10 +841,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -855,10 +855,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -873,10 +873,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -887,10 +887,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -901,10 +901,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -915,10 +915,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -929,10 +929,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -943,10 +943,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -957,10 +957,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -971,10 +971,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -985,10 +985,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -999,10 +999,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1017,10 +1017,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1031,10 +1031,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1045,10 +1045,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1059,10 +1059,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1073,10 +1073,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1087,10 +1087,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1101,10 +1101,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1115,10 +1115,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1129,10 +1129,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1143,10 +1143,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1161,10 +1161,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1175,10 +1175,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1189,10 +1189,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1203,10 +1203,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1217,10 +1217,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1231,10 +1231,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1245,10 +1245,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1259,10 +1259,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1273,10 +1273,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1287,10 +1287,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1305,10 +1305,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1319,10 +1319,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1333,10 +1333,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1347,10 +1347,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1361,10 +1361,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1375,10 +1375,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1389,10 +1389,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1403,10 +1403,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1417,10 +1417,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1431,10 +1431,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1449,10 +1449,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1463,10 +1463,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1477,10 +1477,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1491,10 +1491,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1505,10 +1505,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1519,10 +1519,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1533,10 +1533,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1547,10 +1547,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1561,10 +1561,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1575,10 +1575,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1593,10 +1593,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1607,10 +1607,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1621,10 +1621,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1635,10 +1635,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1649,10 +1649,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1663,10 +1663,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1677,10 +1677,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1691,10 +1691,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1705,10 +1705,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1719,10 +1719,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1737,10 +1737,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1751,10 +1751,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1765,10 +1765,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1779,10 +1779,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1793,10 +1793,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1807,10 +1807,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1821,10 +1821,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1835,10 +1835,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1849,10 +1849,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1863,10 +1863,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -1881,10 +1881,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1895,10 +1895,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1909,10 +1909,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1923,10 +1923,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1937,10 +1937,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1951,10 +1951,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1965,10 +1965,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1979,10 +1979,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -1993,10 +1993,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2007,10 +2007,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
@@ -2025,10 +2025,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2039,10 +2039,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2053,10 +2053,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2067,10 +2067,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2081,10 +2081,10 @@
           "message": "Sensor working",
           "flag": "1",
           "status": {
-            "admin1": "1",
-            "sdo1": "1",
-            "engineer1": "1",
-            "supervisor1": "1"
+            "admin": "1",
+            "sdo": "1",
+            "engineer": "1",
+            "supervisor": "1"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2095,10 +2095,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2109,10 +2109,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2123,10 +2123,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2137,10 +2137,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         },
@@ -2151,10 +2151,10 @@
           "message": "Sensor not working",
           "flag": "0",
           "status": {
-            "admin1": "0",
-            "sdo1": "0",
-            "engineer1": "0",
-            "supervisor1": "0"
+            "admin": "0",
+            "sdo": "0",
+            "engineer": "0",
+            "supervisor": "0"
           },
           "msgDesc": "The PH sensor at the location is showing error as it is recording value below 6.5 as it is going against JJM Norms"
         }
