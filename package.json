@@ -4,7 +4,7 @@
   "description": "A tutorial project on how to create CRUD operations with JSON files",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Uma Victor",
   "license": "ISC",
