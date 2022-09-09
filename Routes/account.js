@@ -17,6 +17,11 @@ const getAccountData = () => {
 }
 
 
+//test
+app.get('/test', (req,res)=>{
+    res.send('Hello World!')
+})
+
 // reading the data
 accountRoutes.get('/account', (req, res) => {
   fs.readFile(dataPath, 'utf8', (err, data) => {
