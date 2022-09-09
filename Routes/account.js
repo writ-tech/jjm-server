@@ -18,7 +18,7 @@ const getAccountData = () => {
 
 
 //test
-app.get('/test', (req,res)=>{
+accountRoutes.get('/test', (req,res)=>{
     res.send('Hello World!')
 })
 
